@@ -8,7 +8,7 @@ Place your ground truth images in the directory data/σ=6/xxx=test/xxx/likeli
 Please open the model_train.ipynb, and run the cell sequentially.
 Then, the training of the model begins, and the weights are stored when the F-measure for the validation data is best.
 
-※The weights of our results are available in the release section. 
+※The weights of our results are available in the releases/assets section. 
 Please download the file best_F_xxx.pth and place it in the directory data/σ=6/xxx=test/weight_F/nuclei_sarcoma.
 
 # Step_3 Model evaluation
