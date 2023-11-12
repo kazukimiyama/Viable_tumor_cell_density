@@ -11,6 +11,6 @@ Then, the training of the model begins, and the weights are stored when the F-me
 ※The weights of our results are available in the release section. 
 Please download the file best_F_xxx.pth and place it in the directory data/σ=6/xxx=test/weight_F/nuclei_sarcoma.
 
-# Step_2 Model evaluation
+# Step_3 Model evaluation
 Please open the prediction.ipynb, and run the cell sequentially.
 Then, the detection performance of the model is evaluated.
